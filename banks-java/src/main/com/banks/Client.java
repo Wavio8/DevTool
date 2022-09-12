@@ -1,7 +1,7 @@
 package com.banks;
 
 public class Client {
-    private String name;
+    private String nameClient;
     private String surname;
     private String address;
     private int passportNumber;
